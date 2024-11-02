@@ -9,6 +9,8 @@
 
 html {
   background-color: var(--background);
+  font-family: "Nunito", sans-serif;
+    ;
 }
 
 .dir-header {
@@ -33,7 +35,6 @@ html {
   background-color: var(--buttonBackground);
   text-decoration: none;
   color: var(--text);
-  font-family: "Nunito", sans-serif;;
 }
 
 .dir>a:hover {
